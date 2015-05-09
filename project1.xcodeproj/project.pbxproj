@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		04CDB22C1ACD1AF300BAEC60 /* project1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = project1; sourceTree = BUILT_PRODUCTS_DIR; };
 		04CDB22F1ACD1AF300BAEC60 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		04CDB2361ACD1B7800BAEC60 /* dimage.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = dimage.bin; sourceTree = "<group>"; };
+		04CDB2371ACD1B8500BAEC60 /* iimage.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = iimage.bin; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,8 @@
 			children = (
 				04CDB22E1ACD1AF300BAEC60 /* project1 */,
 				04CDB22D1ACD1AF300BAEC60 /* Products */,
+				04CDB2371ACD1B8500BAEC60 /* iimage.bin */,
+				04CDB2361ACD1B7800BAEC60 /* dimage.bin */,
 			);
 			sourceTree = "<group>";
 		};
