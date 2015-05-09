@@ -1,0 +1,6 @@
+// Symbol table for "C:\Users\Diablo\Desktop\test_o_file\test_o.S"
+// Scope level 0:
+//      Symbol table       Page Address (dec/hex)
+//      -----------------  -----------------------
+//      Back               0164      /      0x00A4
+//      Try                0184      /      0x00B8

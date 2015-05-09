@@ -1,0 +1,20 @@
+In cycle 2: Write $0 Error
+In cycle 4: Number Overflow
+In cycle 9: Write $0 Error
+In cycle 13: Write $0 Error
+In cycle 13: Number Overflow
+In cycle 14: Number Overflow
+In cycle 152: Write $0 Error
+In cycle 156: Write $0 Error
+In cycle 156: Number Overflow
+In cycle 157: Number Overflow
+In cycle 160: Number Overflow
+In cycle 162: Number Overflow
+In cycle 163: Number Overflow
+In cycle 165: Write $0 Error
+In cycle 169: Write $0 Error
+In cycle 169: Number Overflow
+In cycle 171: Number Overflow
+In cycle 174: Write $0 Error
+In cycle 174: Address Overflow
+In cycle 174: Misalignment Error
