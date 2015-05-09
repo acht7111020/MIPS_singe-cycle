@@ -29,8 +29,9 @@ It contain three types MIPS instruction.
 
 
 PS : 
+
 1. You can use "make" instruction, that can compiler out a .exe file.
-     
 2. You can use "make clean" instruction to clean *.exe , *.o , *.out , *.bin , *.rpt.
 	Which can make your file looked clear.
+
 	
